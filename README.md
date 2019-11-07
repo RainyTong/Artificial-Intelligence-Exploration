@@ -1,2 +1,2 @@
 # Artificial-Intelligence-Exploration
-Implementation and exploration of three classic Artificial Intelligence Problems.
+Implementation and exploration of four classic Artificial Intelligence Problems.
