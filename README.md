@@ -6,6 +6,7 @@ Implementation and exploration of four classic Artificial Intelligence problems.
 Gomoku is an abstract strategy board game which is traditionally played with Go pieces (black and white stones) on a Go board, using 15 × 15 of the 19 × 19 grid intersections. I implemented an well-performed AI agent which is able to make effective decisions on the next step during the online game. 
 
 - Check here for my [Technical Report of Gomoku](https://rainytong.github.io/files/technical_report_go.pdf).
+- [Codes](https://github.com/RainyTong/Artificial-Intelligence-Exploration/tree/master/Go-Bang/code)
 
 
 
@@ -14,7 +15,7 @@ Gomoku is an abstract strategy board game which is traditionally played with Go 
 The capacitated arc routing problem (CARP) is an NP-hard problem in vehicle routing with applications where a service must be provided by a set of vehicles on specified roads.
 
 - Check here for my [Technical Report of CARP](https://rainytong.github.io/files/technical_report_carp.pdf).
-
+- [Codes](https://github.com/RainyTong/Artificial-Intelligence-Exploration/tree/master/CARP/code)
 
 
 ### IMP
@@ -22,7 +23,7 @@ The capacitated arc routing problem (CARP) is an NP-hard problem in vehicle rout
 Influence Maximization (IMP) is the problem of  finding a small subset of nodes in a social network that could maximize the spread of influence. 
 
 - Check here for my [Technical Report of IMP](https://rainytong.github.io/files/technical_report_imp.pdf).
-
+- [Codes](https://github.com/RainyTong/Artificial-Intelligence-Exploration/tree/master/IMP/code)
 
 
 ### SVM
@@ -32,4 +33,4 @@ for an SVM means the one with the largest margin between the two classes. Margin
 width of the slab parallel to the hyperplane that has no interior data points.
 
 - Check here for my [Technical Report of SVM](https://rainytong.github.io/files/technical_report_svm.pdf).
-
+- [Codes](https://github.com/RainyTong/Artificial-Intelligence-Exploration/tree/master/SVM/code)
